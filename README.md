@@ -1,1 +1,3 @@
 # Bang
+
+git clone examples
